@@ -1,0 +1,1 @@
+This is the official progress tracker of Nafuu's. Each day what he's been doing and he's progress is tracked through this private git file. Thanks to NAFUU.
