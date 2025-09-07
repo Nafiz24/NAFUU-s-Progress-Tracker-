@@ -1,0 +1,4 @@
+DATE : 9 September 2025 
+Completed the Lecture 2 of DSA with C++ which was the variables and other parts 
+9(C) has been done of differentiation 
+
