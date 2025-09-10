@@ -1,3 +1,4 @@
 Date : 9 September 2025
 
-Completed Lecture 4 of DSA with C++ 
+Completed HALF Lecture 4 of DSA with C++ 
+COMPLETED QUANTIFIER IN DISCRETE MATHS 
